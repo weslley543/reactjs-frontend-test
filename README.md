@@ -19,12 +19,12 @@
   - A interface da sala de chamada deve ser uma rota privada, liberada apenas se o usuário possuir um cookie "auth_token" que armazena um JWT de autenticação.
 
 ## Utilize
-  React hooks
-  React context
-  React Router Dom
-  Styled components
-  Typescript
-  Framework de UI de sua preferência (MaterialUI, Antdesign, Bootstrap...)
+  - React hooks
+  - React context
+  - React Router Dom
+  - Styled components
+  - Typescript
+  - Framework de UI de sua preferência (MaterialUI, Antdesign, Bootstrap...)
 
 ## Envio
   Faça um Pull Request para esse repositório
@@ -35,9 +35,9 @@
 
 ## Avaliação
 
-  Sua aplicação preenche os requerimentos básicos?
-  Você documentou a maneira de configurar o ambiente e rodar sua aplicação?
-  Você seguiu as instruções de envio do desafio?
-  O seu código é organizado e bem componentizado?
-  O seu código é legível?
-  Sua solução tem uma boa usabilidade?
+  - Sua aplicação preenche os requerimentos básicos?
+  - Você documentou a maneira de configurar o ambiente e rodar sua aplicação?
+  - Você seguiu as instruções de envio do desafio?
+  - O seu código é organizado e bem componentizado?
+  - O seu código é legível?
+  - Sua solução tem uma boa usabilidade?
