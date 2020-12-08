@@ -4,6 +4,8 @@
 
   Crie, utilizando ReactJS, uma aplicação que simula a visualização do dono (chamaremos de owner) de uma vídeo chamada com N participantes.
 
+  Faça o fork desse repositório
+
 ## Requisitos
   - A aplicação deve possuir uma tela que gera o JWT e faz o registro do cookie "auth_token", essa tela pode conter apenas um botão que escreve o cookie ou pode ser uma tela de login completa (fica a seu critério)
   - A aplicação deve possuir uma tela que simula a visualização do ponto de vista do owner (todos os participantes serão apenas simulados no frontend dessa tela).
