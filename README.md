@@ -14,7 +14,6 @@
   - Inclua uma forma de simular a entrada do participante (atalho de teclado, função atribuida ao objeto window ex: window.addParticipant("Participant Name")).
           - O owner deve poder aceitar/recusar que um participante entre
           - A qualquer momento o owner pode remover um participante específico da chamada ou desativar seu canal de vídeo
-  - A interface deve possuir um chat (não funcional, apenas a casca)
   - Seja criativo para criar o comportamento do grid para quantidades diferentes de usuário (como a tela se comporta quando só existe 1 usuário online? 4? 8? 12?)
   - Utilize o localStorage para armazenar o estado da aplicação de forma que se o owner recarregar a página ele volte com todos os participantes, já aceitos, em tela.
   - A interface da sala de chamada deve ser uma rota privada, liberada apenas se o usuário possuir um cookie "auth_token" que armazena um JWT de autenticação.
